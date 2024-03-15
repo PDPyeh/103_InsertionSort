@@ -10,7 +10,7 @@ void input() {
     while (true) {
         cout << "masukan banyaknya element pada array = ";
         cin >> n;
-        if (n <= 11)
+        if (n <= 20)
             break;
         else {
             cout << "\nArray dapat mempunyai maksimal 20 elemen. \n";
