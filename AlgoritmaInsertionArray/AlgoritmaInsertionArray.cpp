@@ -1,10 +1,17 @@
 
 
 #include <iostream>
-namespace std;
+using namespace std;
+void insertionSort() {
+    int i, n, temp, j;
+    int arr[11];
+    
+    for 
+
+}
 
 int main()
 {
-    s
+    
 }
 
